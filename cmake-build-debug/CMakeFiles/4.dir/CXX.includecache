@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/MotherShip.cpp
+time.h
+-
+MotherShip.h
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/MotherShip.h
+
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/MotherShip.h
+Observer.h
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/Observer.h
+
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/Observer.cpp
+Observer.h
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/Observer.h
+
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/Observer.h
+iostream
+-
+string
+-
+vector
+-
+MotherShip.h
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/MotherShip.h
+
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/main.cpp
+menu.h
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/menu.h
+Observer.h
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/Observer.h
+
+/Users/michaelrokitko/Desktop/לימודים שנקר/Tohna 4/homeworks/4/menu.h
+iostream
+-
+string
+-
+
